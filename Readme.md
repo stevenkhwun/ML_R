@@ -7,3 +7,7 @@ __Contents__
 * Hands-on Machine Learning Examples
   * Use the `RColorBrewer` library to display colour pictures
   * Implement k-nearest neighbours in R by the `knn3` function of the `caret` package
+
+Further contents to be released.
+
+4 October 2022
