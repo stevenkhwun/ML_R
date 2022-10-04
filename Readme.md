@@ -2,7 +2,7 @@
 
 This repository contains notes on machine learning using R based on the LSE external course ST3189 Machine Learning.
 
-Contents
+__Contents__
 
 * Hands-on Machine Learning Examples
   * Use the `RColorBrewer` library to display colour pictures
