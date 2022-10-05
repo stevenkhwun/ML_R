@@ -1,6 +1,6 @@
 **Machine Learning using R**
 
-This repository contains notes on machine learning using R based on the LSE external course ST3189 Machine Learning.
+This repository contains my notes on machine learning using R in the introductory level. Topics are focusing on practical implementation of machine learning methods and are light in theory.
 
 __Contents__
 
