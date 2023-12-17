@@ -2,6 +2,8 @@
 
 This repository contains my notes on machine learning using R in the introductory level. Topics are focusing on practical implementation of machine learning methods and are light in theory.
 
+This repository runs Jupyter Notenbook under R Kernel.
+
 __Contents__
 
 * Hands-on Machine Learning Examples
